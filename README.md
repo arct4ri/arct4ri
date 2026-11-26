@@ -1,4 +1,5 @@
-<img src="stocking.png" width="350" />
+img align="left" src="https://yourimageshare.com" width="200" />
+<img align="right" src="https://yourimageshare.com" width="200" />
 
 ### roux / kira !
 <br>
@@ -7,4 +8,7 @@ free int & c*h pls !
 
 current hyperfixations: unstable smp & deltarune
 
-<img src="https://www.image2url.com/r2/default/gifs/1795662861527-56d77a6e-736e-4694
+<br clear="both" />
+
+<img align="right" src="https://yourimageshare.com" width="200" />
+<img src="https://image2url.com" width="250" />
